@@ -4,7 +4,7 @@
 - Full details of work done can be found here: https://arxiv.org/abs/2108.09768
 
 
-- If you find code useful, please consider citing
+- If you find this work useful, please consider citing
 ```
 @misc{abdelsalam2021relating,
       title={Relating CNNs with brain: Challenges and findings}, 
